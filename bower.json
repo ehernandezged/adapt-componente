@@ -1,10 +1,15 @@
 {
   "name": "adapt-componente",
+  "version": "0.0.1",
+  "repository": "git://github.com/ehernandezged/adapt-componente.git",
+  "homepage": "https://github.com/ehernandezged/adapt-componente",
   "authors": [
     "Emmanuel <ehernandez@grupoeducare.com>"
   ],
   "description": "adapt-componente",
-  "main": "",
-  "license": "MIT",
-  "homepage": ""
+  "main": "/js/adapt-componente.js",
+  "keywords": [
+    "adapt-component"
+  ],
+  "license": "GPLv3"
 }
