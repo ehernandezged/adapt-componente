@@ -1,15 +1,16 @@
 {
-  "name": "adapt-componente",
-  "version": "0.0.2",
-  "repository": "git://github.com/ehernandezged/adapt-componente.git",
-  "homepage": "https://github.com/ehernandezged/adapt-componente",
-  "authors": [
-    "Emmanuel <ehernandez@grupoeducare.com>"
-  ],
-  "description": "adapt-componente",
-  "main": "/js/adapt-componente.js",
-  "keywords": [
-    "adapt-component"
-  ],
-  "license": "GPLv3"
+    "name": "adapt-componente",
+    "repository": "git://github.com/ehernandezged/adapt-componente.git",
+    "framework": "~2.0.0",
+    "version": "0.0.2",
+    "homepage": "https://github.com/ehernandezged/adapt-componente",
+    "authors": [
+        "Emmanuel <ehernandez@grupoeducare.com>"
+    ],
+    "description": "adapt-componente",
+    "main": "/js/adapt-componente.js",
+    "keywords": [
+        "adapt-component"
+    ],
+    "license": "GPLv3"
 }
